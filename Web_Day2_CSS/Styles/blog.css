@@ -1,0 +1,49 @@
+.header{
+    h2{
+        color: rgb(68, 92, 19);
+    }
+    height: 800px;
+    /* background-image: url('../../Web_Day2_CSS/Styles/jenny-hill-mQVWb7kUoOE-unsplash.jpg'); */
+    background-image: url('Screenshot\ 2025-07-29\ 023442.png');
+    background-position: top;
+    background-position: 50% 0;
+    background-repeat:no-repeat;
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+    /* background-size: 200px; */
+}
+h3{
+    font-size: 35px;
+    text-decoration: overline;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* span{
+    color: red;
+} */
+.blog{
+    border-radius: 15px;
+    text-align: justify;
+    hyphens: auto;
+    margin: 20px;
+    border: 7px solid tomato;
+    padding: 8px;
+    box-shadow: 10px 10px 15px blueviolet;
+}
+ .second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+.incident{
+    border: 2px solid red;
+    /* height: 100px; */
+    display: block;
+    display:inline-block;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* li{
+    display: inline-block;
+} */
